@@ -93,7 +93,6 @@ List Jobs (Filter/Search)
   - pageSize
   - locationId
   - departmentId
-    
 • Purpose: Returns a list of jobs, with optional filters like location, department, or job title.
 
 Security Notes
