@@ -1,0 +1,6 @@
+@TeknorixTest_HostAddress = http://localhost:5175
+
+GET {{TeknorixTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
